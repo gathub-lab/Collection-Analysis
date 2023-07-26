@@ -3,7 +3,8 @@
 ### Introduction to the dataset
 This dataset includes 1 table containing debt collection information of partners by month in 2020 and 2021.
 ### Data dictionary
-![image](https://github.com/gathub-lab/Collection-Analysis/assets/116141004/c84a1c62-653e-4b82-8bea-589ad40195b2)
+![image](https://github.com/gathub-lab/Collection-Analysis/assets/116141004/ff98b8b0-d329-48a4-bb46-ca22c50d11ec)
+
 ### Request
 Know the debt collection situation in general and each partner's as well as their strengths: Amount of debt collected, success rate of debt collection by month, by year, by product
 
