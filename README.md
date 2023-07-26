@@ -23,6 +23,8 @@ Know the debt collection situation in general and each partner's as well as thei
 
 ### Step 5 - Review
 ![image](https://github.com/gathub-lab/Collection-Analysis/assets/116141004/fb3ca4f1-f7f2-47f1-84fe-42382c39f4ae)
+## 3. Visualization
+![image](https://github.com/gathub-lab/Collection-Analysis/assets/116141004/5caad90c-3957-4ad1-9e59-ff71133cd68e)
 
 ## 4. Insight
 Overview:
